@@ -3,9 +3,6 @@
 //Creation: November 11, 2017
 //Version: MidtermProject.1(Menu Receipt)
 //Description: Displays a list of Appetizers and Entrees and prompts the user to choice an item of his choice. Then calcultes the total, Gratuities and prints a receipt.
-
-
-
 //********************************************************************************************/
 
 
@@ -15,8 +12,7 @@
 #include "MidtermProject.h"
 using namespace std;
 
-/ Name:main()
-
+// Name:main()
 // Parameter(s): 0
 // Return: 0 if successful
 // Label         Task                                          Goto
